@@ -1,0 +1,11 @@
+// Assignment 1: Variables, Data Types and Console Operations
+
+const name = "Alice";
+let age = 25;
+var isEmployed = true;
+const skills = ["HTML", "CSS", "JavaScript"];
+
+console.log("Name:", name, "(Type:", typeof name + ")");
+console.log("Age:", age, "(Type:", typeof age + ")");
+console.log("Is Employed:", isEmployed, "(Type:", typeof isEmployed + ")");
+console.log("Skills:", skills, "(Type:", typeof skills + ")");
